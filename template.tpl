@@ -177,7 +177,7 @@ var injectScript = require('injectScript');
 log('data =', data);
 
 var onSuccess = function() {
-log('Event wad added successfully');
+log('Event was added successfully');
 data.gtmOnSuccess();
 };
 
@@ -208,7 +208,7 @@ if (data.customDimensions) {
 log('customDimensions =', data.customDimensions);
 for (var i=0;i<data.customDimensions.length;i++) {
 if(data.customDimensions[i].index) {
-log('customDimension' + data.customDimensions[i].index + ' =', data.customDimensions[i]);
+log('customDimension' + data.customDimensions[i].index + ' = ', data.customDimensions[i]);
 dimensionsObject[data.customDimensions[i].index] = data.customDimensions[i].value;
 }
 }
