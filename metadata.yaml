@@ -1,3 +1,5 @@
 homepage: "https://matomo.org/"
 documentation: "https://github.com/matomo-org/google-tag-manager-matomo-event-template"
 versions:
+  - sha: 3f4c5300ca1decb0ef9fea326695f325ab542205
+    changeNotes: Initial release
