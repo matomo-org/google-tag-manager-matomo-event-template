@@ -24,7 +24,7 @@ Or in short:
 3. Click the “New” button at the top right corner of the tags section to add a new tag.
 4. Click on “Tag Configuration” to select the tag.
 5. A window with all the available tags will pop up.
-6.  In the search bar, search for “Matomo Event & Goal Tracking” and select the tag.
+6. In the search bar, search for “Matomo Event & Goal Tracking” and select the tag.
 7. Configure the tag as per your need
 8. Scroll down and click on “Triggering” and select appropriate trigger condition.
 9. Click “Save”.
